@@ -10,14 +10,10 @@ NetBeans IDE
 
 
 
-A mysql connector(jar file) is attached for this.
+A mysql connector(jar file) is attached for this project and can find in lib folder.
 
 
 
 
 
-
-
-
-
-
+Thank you
